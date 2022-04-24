@@ -7,8 +7,8 @@ I sometimes did include "StdDraw" and "In" in the folders for each topic if they
 
 "StdIn" and "StdOut" are only going to be in the main repository.
 
-Hopefully this is helpful, but please don't copy if you aren't allowed to. Idek if you can even reach this because it's private though.\\
+Hopefully this is helpful, but please don't copy if you aren't allowed to. 
 
-oop1 has pictures of isla (:D) and a baboon because it tests image rendering and stuff related to that.
+oop1 has pictures because it tests image rendering and stuff related to that.
 
-functions has "StdAudio" and can play a song I made form combining given audio files.
+functions has "StdAudio" and can play a song I made from combining given audio files.
